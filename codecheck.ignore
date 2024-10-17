@@ -1,0 +1,8 @@
+*/test/**
+dist/**
+src/main/resources/*
+src/main/java/com/webank/dca/store/utils/ImageEncryptor.java
+src/main/java/com/webank/dca/store/monitor/WebLogMonitorAspect.java
+src/main/java/com/webank/dca/store/exception/ExceptionHandleAdvice.java
+src/main/java/com/webank/dca/store/vo/ComputeResponse.java
+src/main/java/com/webank/dca/store/utils/HashUtils.java
